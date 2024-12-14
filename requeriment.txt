@@ -1,0 +1,5 @@
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+pyfiglet==0.8.post1
+setuptools==75.1.0
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1730926118411/work
+wheel==0.44.0
